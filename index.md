@@ -1,12 +1,12 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "Nguyen Cao Duy"
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a high school student currently studying under a scholarship in Singapore. I have a strong interest in Computer Science. This is my online portfolio where I want to show my skills and peronal projects.
 
-## Current Interests and Projects:
+## Current Github repositories:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- [Competitive Programming](https://ncduy0303.github.io/Competitive-Programming/)
+- [Deep learning](https://github.com/ncduy0303/Deep-Learning-Kaggle)
+- [Personal projects](https://github.com/ncduy0303/Side-projects)
