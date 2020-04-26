@@ -1,29 +1,28 @@
 ---
 layout: resume
 ---
+<!---## Currently
 
-## Currently
-
-Current Position Description
+Current Position Description-->
 
 ## Education
-
-`2017 - 2019`
-__St Joseph's Institution__
 
 `2020 - 2021`
 __Anderson Serangoon Junior College__
 
-## Awards
+`2017 - 2019`
+__St Joseph's Institution__
+
+<!---## Awards
 
 `2012`
-Name of Award, Organization 
+Name of Award, Organization -->
 
-## Publications
+<!---## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!--### Journals
 
 `1994`
 Article Title, Journal Title
@@ -58,7 +57,7 @@ __Current Job Title__, Current Employer
 __Current Job Title__, Current Employer 
 
 - Task
-- Task
+- Task-->
 
 
 
