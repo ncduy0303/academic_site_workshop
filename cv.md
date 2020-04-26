@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: portfolio
 ---
 
 ![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
@@ -10,13 +10,11 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2017 - 2019`
+__St Joseph's Institution__
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2020 - 2021`
+__Anderson Serangoon Junior College__
 
 ## Awards
 
