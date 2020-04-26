@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "Nguyen Cao Duy"
+excerpt: "About me ..."
 ---
 
 I am a high school student currently studying under a scholarship in Singapore. I have a strong interest in Computer Science. This is my online portfolio where I want to show my skills and peronal projects.
