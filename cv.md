@@ -1,6 +1,9 @@
 ---
 layout: resume
 ---
+
+![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+
 ## Currently
 
 Current Position Description
