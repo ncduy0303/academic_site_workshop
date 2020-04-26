@@ -11,7 +11,7 @@ owner:
   bio: "Hello, World!"
   email: caoduy73@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: ncduy0303
+  twitter: #ncduy0303
   linkedin: caoduynguyen
   github: ncduy0303
   orcid: # ID Number (ex. 0000-0000-0000-0000)
@@ -22,8 +22,8 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: #username
-  instagram: #username
+  facebook: #ncduy0303
+  instagram: #nc_duy
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
