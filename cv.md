@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: resume
 ---
 
 ![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
