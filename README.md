@@ -1,2 +1,2 @@
-# ncduy0303.github.io
+# Nguyen Cao Duy
 My personal Github Page
